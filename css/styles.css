@@ -8,10 +8,14 @@
 }
 
 body {
-    background: #1B1A17;
-    color: #F0A500;
+    background:#F0A500;
+    color: #E45826;
 }
 
-.nav-link {
-    color: #F0A500;
+
+.maincol {
+    background-color: #1B1A17 ;
+    text-align: center;
+    margin: 1% auto;
+    border-radius: 10px;
 }
