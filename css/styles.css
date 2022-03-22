@@ -1,0 +1,17 @@
+/* Hoomaniml */
+
+/* COLOR PALETTE: https://colorhunt.co/palette/1b1a17f0a500e45826e6d5b8 */
+
+* {
+    margin: 0;
+    
+}
+
+body {
+    background: #1B1A17;
+    color: #F0A500;
+}
+
+.nav-link {
+    color: #F0A500;
+}
