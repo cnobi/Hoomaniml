@@ -13,9 +13,27 @@ body {
 }
 
 
+.col-12 {
+    width: 98%;
+}
+
 .maincol {
     background-color: #1B1A17 ;
     text-align: center;
     margin: 1% auto;
     border-radius: 10px;
+    padding: 10%;
+}
+
+.subcol {
+    text-align: center;
+    border-radius: 10px;
+}
+
+#dog-pic {
+    width: 400px;
+}
+
+.mydoginput {
+    padding-top: 100px;
 }
